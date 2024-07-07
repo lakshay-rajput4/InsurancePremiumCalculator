@@ -1,7 +1,8 @@
 # InsurancePremiumCalculator
 This project is a Java-based insurance premium calculator that computes insurance premiums based on various factors such as car type, car model, insurance type, and car price. It provides two types of insurance plans: BASIC and PREMIUM, with different premium calculation rules for each car type.
 
-Project Structure
+**Project Structure**
+
 The project is structured into several packages and classes to maintain organization and separation of concerns:
 
 insurance.entities: Contains the Car entity class representing a car with properties such as car type, model, insurance type, and price.
